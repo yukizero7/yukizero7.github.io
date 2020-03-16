@@ -3,11 +3,11 @@
   <title>Yuki的博客</title>
   
   
-  <link href="/atom.xml" rel="self"/>
+  <link href="/yukizero7.gitee.io/atom.xml" rel="self"/>
   
-  <link href="https://yukizero7.github.io/"/>
+  <link href="https://yukizero7.gitee.io/yukizero7.github.io/"/>
   <updated>2020-03-16T05:10:33.606Z</updated>
-  <id>https://yukizero7.github.io/</id>
+  <id>https://yukizero7.gitee.io/yukizero7.github.io/</id>
   
   <author>
     <name>yukizero7</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://yukizero7.github.io/2020/03/16/hello-world.html"/>
-    <id>https://yukizero7.github.io/2020/03/16/hello-world.html</id>
+    <link href="https://yukizero7.gitee.io/yukizero7.github.io/2020/03/16/hello-world.html"/>
+    <id>https://yukizero7.gitee.io/yukizero7.github.io/2020/03/16/hello-world.html</id>
     <published>2020-03-16T05:10:33.606Z</published>
     <updated>2020-03-16T05:10:33.606Z</updated>
     
@@ -41,8 +41,8 @@
   
   <entry>
     <title>Hexo-Theme-Sakura</title>
-    <link href="https://yukizero7.github.io/2018/12/12/Hexo-Theme-Sakura.html"/>
-    <id>https://yukizero7.github.io/2018/12/12/Hexo-Theme-Sakura.html</id>
+    <link href="https://yukizero7.gitee.io/yukizero7.github.io/2018/12/12/Hexo-Theme-Sakura.html"/>
+    <id>https://yukizero7.gitee.io/yukizero7.github.io/2018/12/12/Hexo-Theme-Sakura.html</id>
     <published>2018-12-12T14:16:01.000Z</published>
     <updated>2020-03-14T13:25:33.000Z</updated>
     
@@ -53,12 +53,12 @@
     </summary>
     
     
-      <category term="技术" scheme="https://yukizero7.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+      <category term="技术" scheme="https://yukizero7.gitee.io/yukizero7.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-      <category term="web" scheme="https://yukizero7.github.io/tags/web/"/>
+      <category term="web" scheme="https://yukizero7.gitee.io/yukizero7.github.io/tags/web/"/>
     
-      <category term="悦读" scheme="https://yukizero7.github.io/tags/%E6%82%A6%E8%AF%BB/"/>
+      <category term="悦读" scheme="https://yukizero7.gitee.io/yukizero7.github.io/tags/%E6%82%A6%E8%AF%BB/"/>
     
   </entry>
   
