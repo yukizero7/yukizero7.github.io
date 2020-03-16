@@ -23,13 +23,6 @@
   </url>
   
   <url>
-    <loc>https://yukizero.xyz/client/index.html</loc>
-    
-    <lastmod>2020-03-14T13:25:33.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://yukizero.xyz/comment/index.html</loc>
     
     <lastmod>2020-03-14T13:25:33.000Z</lastmod>
@@ -44,13 +37,6 @@
   </url>
   
   <url>
-    <loc>https://yukizero.xyz/donate/index.html</loc>
-    
-    <lastmod>2020-03-14T13:25:33.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://yukizero.xyz/links/index.html</loc>
     
     <lastmod>2020-03-14T13:25:33.000Z</lastmod>
@@ -58,7 +44,21 @@
   </url>
   
   <url>
+    <loc>https://yukizero.xyz/donate/index.html</loc>
+    
+    <lastmod>2020-03-14T13:25:33.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://yukizero.xyz/lab/index.html</loc>
+    
+    <lastmod>2020-03-14T13:25:33.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://yukizero.xyz/client/index.html</loc>
     
     <lastmod>2020-03-14T13:25:33.000Z</lastmod>
     
