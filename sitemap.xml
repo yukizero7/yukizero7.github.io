@@ -30,13 +30,6 @@
   </url>
   
   <url>
-    <loc>https://yukizero7.github.io/client/index.html</loc>
-    
-    <lastmod>2020-03-14T13:25:33.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://yukizero7.github.io/comment/index.html</loc>
     
     <lastmod>2020-03-14T13:25:33.000Z</lastmod>
@@ -51,21 +44,14 @@
   </url>
   
   <url>
+    <loc>https://yukizero7.github.io/client/index.html</loc>
+    
+    <lastmod>2020-03-14T13:25:33.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://yukizero7.github.io/lab/index.html</loc>
-    
-    <lastmod>2020-03-14T13:25:33.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://yukizero7.github.io/rss/index.html</loc>
-    
-    <lastmod>2020-03-14T13:25:33.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://yukizero7.github.io/tags/index.html</loc>
     
     <lastmod>2020-03-14T13:25:33.000Z</lastmod>
     
@@ -80,6 +66,20 @@
   
   <url>
     <loc>https://yukizero7.github.io/music/index.html</loc>
+    
+    <lastmod>2020-03-14T13:25:33.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://yukizero7.github.io/tags/index.html</loc>
+    
+    <lastmod>2020-03-14T13:25:33.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://yukizero7.github.io/rss/index.html</loc>
     
     <lastmod>2020-03-14T13:25:33.000Z</lastmod>
     
